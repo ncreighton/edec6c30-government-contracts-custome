@@ -1,2 +1,28 @@
-# edec6c30-government-contracts-custome
-Every government contracts professionals needs this — most just don't know it yet.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Government &amp; Contracts Customer Testimonial And Review Display — fully configured and ready to use - Clea
+# Government & Contracts Customer Testimonial and Review Display WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28r9z9bUE9JKdI0cZz38)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28r9z9bUE9JKdI0cZz38)
+
